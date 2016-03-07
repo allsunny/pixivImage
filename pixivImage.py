@@ -18,7 +18,7 @@ rootURL = 'http://www.pixiv.net'
 startURL = 'http://www.pixiv.net/search.php?order=date_d'
 
 store_path = 'E:\\P站'
-cookie = 'p_ab_id=7; login_ever=yes; _ga=GA1.2.1980361329.1457164315; __utmt=1; visit_ever=yes; PHPSESSID=8309039_2a2e277d91b025f3a1f360387213750d; device_token=b409b8016b75b0fc4fc96edbe938c9dc; module_orders_mypage=%5B%7B%22name%22%3A%22everyone_new_illusts%22%2C%22visible%22%3Atrue%7D%2C%7B%22name%22%3A%22spotlight%22%2C%22visible%22%3Atrue%7D%2C%7B%22name%22%3A%22featured_tags%22%2C%22visible%22%3Atrue%7D%2C%7B%22name%22%3A%22contests%22%2C%22visible%22%3Atrue%7D%2C%7B%22name%22%3A%22following_new_illusts%22%2C%22visible%22%3Atrue%7D%2C%7B%22name%22%3A%22mypixiv_new_illusts%22%2C%22visible%22%3Atrue%7D%2C%7B%22name%22%3A%22booth_follow_items%22%2C%22visible%22%3Atrue%7D%5D; __utma=235335808.1980361329.1457164315.1457314990.1457318723.5; __utmb=235335808.28.10.1457318723; __utmc=235335808; __utmz=235335808.1457314990.4.4.utmcsr=baidu|utmccn=(organic)|utmcmd=organic; __utmv=235335808.|2=login%20ever=yes=1^3=plan=normal=1^5=gender=male=1^6=user_id=8309039=1'
+cookie = '使用前要修改cookie'
 userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36'
 
 class pixivImage(SpiderHTML):
